@@ -4,7 +4,7 @@ I find these are really useful and aren't too hard to get to grips with.  They a
 
 ![Hand-drawn Sequence Diagram](SeqDiagHand.jpg "Hand-drawn Sequence Diagram")
 
-Along the top are the classes involved, and it is read from left to right, with the whole timeline running from top to bottom.  Starting at AdamClassifier, we can see run() is called, which instantiates AnalyzePackage, where a different run() is also called.  This instantiates UnzipPackage, within whose run() method Disassemble is instantiated.  And so on and so forth.  I left a lot of detail off this sequence diagram as it just for me to get a grip of what was happening.  Next, we can see a much more formal and complicated example of mine:
+Along the top are the classes involved, and it is read from left to right, with the whole timeline running from top to bottom.  Starting at AdamClassifier, we can see run() is called, which instantiates AnalyzePackage, where a different run() is also called.  This instantiates UnzipPackage, within whose run() method Disassemble is instantiated.  And so on and so forth.  I left a lot of detail off this sequence diagram as it just for me to get a grip of what was happening.  Next, we can see a much more formal and complicated example of mine (for a different piece of software):
 
 ![Formal Sequence Diagram](SimulateVerificationPortrait_v2.png "Formal Sequence Diagram")
 
