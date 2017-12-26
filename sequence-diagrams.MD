@@ -8,4 +8,4 @@ Along the top are the classes involved, and it is read from left to right, with 
 
 ![Formal Sequence Diagram](SimulateVerificationPortrait_v2.png "Formal Sequence Diagram")
 
-Arguably this is easier to follow as it contains more information.  Regardless of which you prefer, I do recommend using these as it helps crystallise in your own head what is going on and is good to show other team members when talking about what you are doing, or if you have to give some code to someone else who has no idea what is going on!  Give them a go, hand-draw one first, then you can use a tool like MS Visio or similar to formalise them.
+Arguably this is easier to follow as it contains more information.  Regardless of which you prefer, I do recommend using these as it helps crystallise in your own head what is going on and is good to show other team members when talking about what you are doing, or if you have to give some code to someone else who has no idea what is happening!  Give them a go, hand-draw one first, then you can use a tool like MS Visio or similar to formalise them.
